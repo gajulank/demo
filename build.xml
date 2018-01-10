@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name="Testing Test" default="test1" basedir=".">
+
+<target name="test1">
+   <echo>Testing Test</echo>
+</target>
+</project>
